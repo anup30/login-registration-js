@@ -1,3 +1,4 @@
+<!-- assignment module 13 -->
 simple registration and login flow,
 using javascript and bootstrap.
 used localStorage, sessionStorage.

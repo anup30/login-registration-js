@@ -1,3 +1,4 @@
+//<!-- assignment module 13 -->
 // localStorage, sessionStorage example
 
 function showForm(type){
